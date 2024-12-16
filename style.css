@@ -12,6 +12,10 @@ body {
   text-align: right;
 }
 
+.header-title {
+  display: none;
+}
+
 .header .image {
   width: 100%;
 }
@@ -48,7 +52,7 @@ ul {
 }
 
 li,
-h3 {
+h2 {
   list-style: none;
 }
 
